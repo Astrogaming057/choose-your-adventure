@@ -11,3 +11,7 @@ Dr. Vasquez survives, though she remains partially crystalline. Back at Federati
 **You have successfully rescued a survivor and brought back crucial information about the alien crystals. The Federation decides to quarantine the planet and study the crystals from a safe distance.**
 
 ⚠️ **Mission Status: PARTIAL SUCCESS - Survivor Rescued**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*
