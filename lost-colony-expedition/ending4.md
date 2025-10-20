@@ -14,4 +14,4 @@ You return to the Federation with incredible news: humanity is not alone in the 
 
 ---
 
-*Want to try a different path? [Start over from the beginnbing](./_start-here.md)*
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*
