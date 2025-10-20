@@ -9,3 +9,7 @@ You return to the Federation not as Captain Alex Chen, but as a crystalline bein
 **You have become the first human-crystal hybrid, opening new possibilities for both species. You are celebrated as a hero who chose evolution over tradition, and humanity enters a new era of cooperation with the crystal beings.**
 
 🌟 **Mission Status: TRANSFORMATION - New Beginning**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*

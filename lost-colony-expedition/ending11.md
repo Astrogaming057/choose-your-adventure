@@ -16,4 +16,8 @@ The *Nebula Explorer* watches helplessly as your life signs disappear. Your miss
 
 ---
 
+*Want to try again? [Start over from the beginning](./_start-here.md)*
+
+---
+
 *Want to try again? Start over from the beginning and make different choices!*

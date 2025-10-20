@@ -13,3 +13,7 @@ You choose to become the bridge. You return to the Federation not as Captain Ale
 **You have become the first human-crystal hybrid, opening new possibilities for both species. Some see you as a hero, others as a monster, but you know you've made the right choice for the future of both species.**
 
 🌟 **Mission Status: TRANSFORMATION - New Beginning**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*

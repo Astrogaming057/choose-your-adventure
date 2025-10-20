@@ -9,3 +9,7 @@ However, your rejection has consequences. The crystals begin to expand their inf
 **You have successfully completed your mission, but your rejection of the crystals has unintended consequences. The Federation must now deal with a growing crystal threat that could affect the entire galaxy.**
 
 ⚠️ **Mission Status: PARTIAL SUCCESS - Unintended Consequences**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*

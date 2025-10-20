@@ -11,3 +11,7 @@ You are commended for your caution and thorough reporting. The Federation establ
 **You have successfully completed your mission and provided the Federation with crucial information about the alien crystals. While you didn't establish contact, you ensured the safety of your crew and provided valuable scientific data.**
 
 ⚠️ **Mission Status: SUCCESS - Scientific Discovery**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*

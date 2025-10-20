@@ -9,3 +9,7 @@ The Federation celebrates your success, and you help negotiate a treaty between 
 **You have successfully established first contact with an alien species and become humanity's first ambassador to the crystal beings. The Galactic Federation celebrates you as a hero, and humanity enters a new era of cooperation with the crystal beings.**
 
 🏆 **Mission Status: SUCCESS - Diplomatic Victory**
+
+---
+
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*
