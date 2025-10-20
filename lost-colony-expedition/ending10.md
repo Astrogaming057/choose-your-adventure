@@ -14,4 +14,4 @@ The *Nebula Explorer* returns to the Federation with a tragic report: Captain Al
 
 ---
 
-*Want to try again? Start over from the beginning and make different choices!*
+*Want to try again? [Start over from the beginning](./_start-here.md)*
