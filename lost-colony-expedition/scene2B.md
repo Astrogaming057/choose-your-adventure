@@ -15,4 +15,3 @@ What do you do?
 - 🚪 [Enter the dome to investigate](./scene3D.md)
 - 🔬 [Collect crystal samples first](./scene3E.md)
 - ⚠️ [Ignore the warnings and approach the crystals](./ending11.md)
-- 🏠 [Return to the beginning](./_start-here.md)
