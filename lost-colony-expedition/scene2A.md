@@ -14,3 +14,4 @@ How do you proceed?
 
 - 🚀 [Land immediately to rescue the survivor](./scene3A.md)
 - 🔬 [Analyze the crystal formations first](./scene3B.md)
+- 🏠 [Return to the beginning](./_start-here.md)
