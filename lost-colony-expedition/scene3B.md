@@ -14,3 +14,4 @@ What do you do?
 
 - 🧠 [Try to establish direct communication](./scene4A.md)
 - ⚠️ [Retreat and warn the Federation](./ending5.md)
+- ⚡ [Touch the crystals directly](./ending10.md)

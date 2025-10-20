@@ -15,3 +15,4 @@ What's your first move?
 - 🔍 [Send a reconnaissance drone to scan the surface](./scene2A.md)
 - 👥 [Take a landing party down to investigate](./scene2B.md)
 - 📡 [Try to establish communication with any survivors](./scene2C.md)
+- 🚀 [Take control and fly down yourself](./scene2D.md)
