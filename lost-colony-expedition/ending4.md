@@ -10,8 +10,8 @@ You return to the Federation with incredible news: humanity is not alone in the 
 
 **You have successfully established first contact with an alien species and opened new possibilities for humanity. The Galactic Federation celebrates you as a hero, and humanity enters a new era of cooperation with the crystal beings.**
 
-🏆 **Mission Status: SUCCESS - Diplomatic Victory.**
+🏆 **Mission Status: SUCCESS - Diplomatic Victory!**
 
 ---
 
-*Want to try a different path? [Start over from the beginnbing](./_start-here.md)*
+*Want to try a different path? [Start over from the beginning](./_start-here.md)*
