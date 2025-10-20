@@ -14,4 +14,4 @@ Dr. Vasquez survives, though she remains partially crystalline. Back at Federati
 
 ---
 
-*Want to try a different path? [Start over from the beginning](./_start-here.md)*
+*Want to try a different path? [Start over from the beginnbing](./_start-here.md)*

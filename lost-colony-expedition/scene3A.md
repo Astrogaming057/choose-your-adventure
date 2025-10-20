@@ -12,4 +12,3 @@ What do you do?
 
 - 💎 [Try to reverse the transformation](./ending1.md)
 - 🚀 [Evacuate Dr. Vasquez immediately](./ending2.md)
-- 🏠 [Return to the beginning](./_start-here.md)
