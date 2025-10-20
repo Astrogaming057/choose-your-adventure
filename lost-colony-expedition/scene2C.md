@@ -14,3 +14,4 @@ How do you respond?
 
 - 🆘 [Immediately attempt rescue mission](./scene3G.md)
 - 🔍 [Ask Dr. Vasquez for more information](./scene3H.md)
+- 🏠 [Return to the beginning](./_start-here.md)
